@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "916779065005",
+    "firebase_url": "https://recipeapp-1e927.firebaseio.com",
+    "project_id": "recipeapp-1e927",
+    "storage_bucket": "recipeapp-1e927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916779065005:android:8536a0e13e4fb32f6a3024",
+        "android_client_info": {
+          "package_name": "com.example.quotes_app.quotes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916779065005-52h1t6e58piq3qsth72reo5u195g4na1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNkSYfZvi-T6C4AFm_xmm62CLrPe-4mU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916779065005-52h1t6e58piq3qsth72reo5u195g4na1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
